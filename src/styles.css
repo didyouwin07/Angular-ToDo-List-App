@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-color: #dddddd;
+  margin: 0;
+}
+
+footer{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  text-align: center;
+  padding:10px;
+  background-color: #c8c8c8;
+}
